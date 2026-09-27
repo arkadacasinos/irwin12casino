@@ -67,6 +67,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className={`${manrope.variable} ${literata.variable} bg-background`}>
       <head>
+        <meta name="yandex-verification" content="7ec6af23c3337526" />
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
         <title>{pageTitle}</title>
